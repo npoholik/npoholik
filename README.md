@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- Java/Java applications utilizing Java Swing API
+- AVR Assembly projects utilizing the atmega32a MCU
+- VHDL utilizing the Basys 3 Board among other miscellanous FPGA's
+- C++ for the purpose of data structures and lower level programming
+- Python for the purposes of neural networks and high level applications
+- Lua for fun
+
+- 🌱 I’m currently learning ...
+- Everything currently being worked on 👍
+
+- 📫 How to reach me: ...
+- nick.poholik@slu.edu
+
 <!--
 **npoholik/npoholik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
