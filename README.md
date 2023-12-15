@@ -5,7 +5,7 @@
   - AVR Assembly projects utilizing the atmega32a MCU
   - VHDL utilizing the Basys 3 Board among other miscellanous FPGA's
   - C++ for the purpose of data structures and lower level programming
-  - Python for the purposes of neural networks and high level applications
+  - Python for the purposes of signal processing and high level applications
   - Lua for fun
 
 - 🌱 I’m currently learning ...
