@@ -9,6 +9,8 @@
   - Lua for fun
 
 - 🌱 I’m currently learning ...
+  - C for Serial/Parallel Communications
+  - LEGv8 Assembly for Raspberry Pi
   - Everything currently being worked on 👍
 
 - 📫 How to reach me: ...
