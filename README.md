@@ -1,31 +1,24 @@
-### Hi there 👋
+## Hello, welcome
 
-- 🔭 I’m currently working on ...
+### I’m currently working on:
   - Java/Java applications utilizing Java Swing API
   - AVR Assembly projects utilizing the atmega32a MCU
   - VHDL utilizing the Basys 3 Board among other miscellanous FPGA's
   - C++ for the purpose of data structures and lower level programming
   - Python for the purposes of signal processing and high level applications
-  - Lua for fun
+  - Lua for C/C++ integration
+  - C for Serial/Parallel Communications 
 
-- 🌱 I’m currently learning ...
-  - C for Serial/Parallel Communications
-  - Everything currently being worked on 👍
+### I’m currently trying to learn:
+  - Rust as an alternative to C/C++
+  - Verilog for more diverse HDL experiences
+  - Python/Lua for Machine Learning/AI
+  - HTML & PHP for Web Development
+  - JavaScript
 
-- 📫 How to reach me: ...
-  - nick.poholik@slu.edu
 
-<!--
-**npoholik/npoholik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### How to reach me: 
+> nick.poholik@slu.edu
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
