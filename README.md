@@ -1,13 +1,14 @@
 ## Hello, welcome
 
-### I’m currently working on:
-  - Java/Java applications utilizing Java Swing API
-  - AVR Assembly projects utilizing the atmega32a MCU
+### I’m currently working on: 
   - VHDL utilizing the Basys 3 Board among other miscellanous FPGA's
   - C++ for the purpose of data structures and lower level programming
+  - C for Serial/Parallel Communications 
+  - Java/Java applications utilizing Java Swing API
+  - AVR Assembly projects utilizing the atmega32a MCU
   - Python for the purposes of signal processing and high level applications
   - Lua for C/C++ integration
-  - C for Serial/Parallel Communications 
+  - LEGv8 Assembly through the linux kernel of a Raspberry Pi 
 
 ### I’m currently trying to learn:
   - Rust as an alternative to C/C++
