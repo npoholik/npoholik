@@ -19,7 +19,8 @@
 
 
 ### How to reach me: 
-> nick.poholik@slu.edu
+> [Email](nick.poholik@slu.edu)
+> [LinkedIn](linkedin.com/in/nikolaspoholik/)
 
 
 
