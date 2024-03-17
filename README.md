@@ -11,7 +11,7 @@
   - LEGv8 Assembly through the Linux Kernel of a Raspberry Pi 
 
 ### I’m currently trying to learn:
-  - Rust as an Alternative to C/C++
+  - Rust/C# as a memory safe Alternative to C/C++
   - Verilog for More Diverse HDL Experience
   - Python/Lua for Machine Learning/AI
   - HTML & PHP for Web Development
