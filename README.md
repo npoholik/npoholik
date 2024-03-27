@@ -8,7 +8,7 @@
   - AVR Assembly Projects Utilizing the atmega32a MCU
   - Python for the Purposes of Signal Processing and High Level Applications
   - Lua for C/C++ Integration
-  - LEGv8 Assembly through the Linux Kernel of a Raspberry Pi 
+  - ARMv8 Assembly through the Linux Kernel of a Raspberry Pi 
 
 ### I’m currently trying to learn:
   - Rust/C# as a memory safe Alternative to C/C++
