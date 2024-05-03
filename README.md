@@ -17,7 +17,7 @@
   - Rust/C# as a memory safe Alternative to C/C++
   - Verilog/SystemVerilog for More Diverse HDL Experience
   - Python/Lua for Machine Learning/AI Applications
-  - HTML & PHP for Web Development
+  - HTML & Javascript for Web Development
 ----------------------------------------------------------------------------------------------------------
 
 ### How to reach me: 
