@@ -4,19 +4,20 @@
 
 <h2>HDL's and Software Languages</h2>
 <p align="center">
-<img src="assets/systemverilog-svgrepo-com.svg" width = "45" height = "45"/>
-<img src="assets/verilog-svgrepo-com.svg" width = "45" height = "45"/>
+
+<code><img title="SystemVerilog" alt="sv" width="45px" src="assets/verilog-svgrepo-com.svg" /></code>
+<code><img title="Verilog" alt="verilog" width="45px" src="assets/verilog-svgrepo-com.svg" /></code>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="vscode" width="45" height="45"/>
+<code><img title="Rust" alt="rust" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></code>
+<code><img title="Lua" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></code>
 </p>
 
-----------------------------------------
+
 ## Software 
 
 
