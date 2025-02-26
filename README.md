@@ -1,4 +1,5 @@
-![Header](asserts/github-header-image.png)
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome header" src="assets/github-header-image.png"></div>
 
 <h2 style="text-align: center;">HDL's and Software Languages</h2>
 <p align="left">
