@@ -5,8 +5,10 @@
 <h2>HDL's and Software Languages</h2>
 <p align="center">
 
-<code><img title="SystemVerilog" alt="sv" width="45px" src="assets/verilog-svgrepo-com.svg" /></code>
+<code><img title="SystemVerilog" alt="sv" width="45px" src="assets/systemverilog-svgrepo-com.svg" /></code>
 <code><img title="Verilog" alt="verilog" width="45px" src="assets/verilog-svgrepo-com.svg" /></code>
+http://www.w3.org/2000/svg
+<code><img title="Verilog" alt="verilog" width="45px" src="http://www.w3.org/2000/svg" /></code>
 
 <code><img title="C" alt="c" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></code>
 <code><img title="C++" alt="cpp" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
