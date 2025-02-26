@@ -15,7 +15,7 @@
 <p align="left">
 <code><img title="Java" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
 <code><img title="C#" alt="cs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Rust" alt="rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></code>
+<code><img title="Rust" alt="rust" width="35px" src="assets/rust-svgrepo-com.svg" /></code>
 </p>
 <p align = "left">
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
