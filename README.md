@@ -7,7 +7,7 @@
 
 <code><img title="SystemVerilog" alt="sv" width="45px" src="assets/systemverilog-svgrepo-com.svg" /></code>
 <code><img title="Verilog" alt="verilog" width="45px" src="assets/verilog-svgrepo-com.svg" /></code>
-<code><img title="VHDL" alt="vhdl" width="45px" src="vhdl-svgrepo-com.svg" /></code>
+<code><img title="VHDL" alt="vhdl" width="45px" src="assets/vhdl-svgrepo-com.svg" /></code>
 
 <code><img title="C" alt="c" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></code>
 <code><img title="C++" alt="cpp" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
