@@ -11,13 +11,9 @@
 <code><img title="C" alt="c" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></code>
 <code><img title="C++" alt="cpp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="Assembly (LEGv8, AVR)" alt="asm" width="35px" src="assets/assembly-svgrepo-com.svg" /></code>
-</p>
-<p align="left">
 <code><img title="Java" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
 <code><img title="C#" alt="cs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code>
 <code><img title="Rust" alt="rust" width="35px" src="assets/rust-svgrepo-com.svg" /></code>
-</p>
-<p align = "left">
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="Matlab" alt="matlab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></code>
 <code><img title="Lua" alt="lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></code>
