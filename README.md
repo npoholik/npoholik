@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome header" src="assets/github-header-image.png"></div>
 
-<h2 style="text-align: center;">HDL's and Software Languages</h2>
+<h2>HDL's and Software Languages</h2>
 <p align="left">
 <code><img title="VHDL" alt="vhdl" width="35px" src="assets/vhdl-svgrepo-com.svg" /></code>
 <code><img title="SystemVerilog" alt="sv" width="35px" src="assets/systemverilog-svgrepo-com.svg" /></code>
@@ -23,15 +23,22 @@
 <code><img title="Lua" alt="lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></code>
 </p>
 
-
-## Software 
-
-
-----------------------------------------
-### Operating Systems
+<h2>IDE's and Platforms</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="45" height="45">
+<code><img title="AMD Vivado" alt="vivado" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/AMD_Vivado_logo.svg" /></code>
+<code><img title="AMD Xilinx and Vitis IDE" alt="xilinx" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/AMD_Xilinx_logo.svg" /></code>
+<code><img title="Visual Studio" alt="vs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></code>
+<code><img title="Visual Studio Code" alt="vscode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Gradle" alt="gradle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></code>
+<code><img title=".NET Core" alt=".net" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></code>
+<code><img title="Android Studio" alt="androidstudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /></code>
+</p>
+
+
+<h2>Operating Systems</h2>
+<p align="left">
+<code><img title="Windows" alt="windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></code>
+<code><img title="Fedora" alt="fedora" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" /></code>
+<code><img title="Android" alt="android" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /></code>
 </p>
