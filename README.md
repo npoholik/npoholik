@@ -3,7 +3,7 @@
 
 <a href="https://github.com/EthanJamesLew/github-readme-stats-academic">
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npoholik&hide=tcl,python&theme=transparent&layout=compact" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=npoholik&show_icons=true&theme=transparent"/>
 </p>
 </a>
 
