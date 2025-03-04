@@ -1,6 +1,11 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome header" src="assets/github-header-image.png"></div>
 
+<h2>Get in Contact:</h2>
+<p align="left">
+<code><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-000?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NmIyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiA0OC43M2gxOC4xMVYxMDdIMjEuMDZ6bTkuMDYtMjlhMTAuNSAxMC41IDAgMTEtMTAuNSAxMC40OSAxMC41IDEwLjUgMCAwMTEwLjUtMTAuNDlNNTAuNTMgNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M3oiLz48L3N2Zz4%3D&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnikolaspoholik%2F"/></code>
+</p>
+
 <h2>HDL's and Software Languages</h2>
 <p align="left">
 <code><img alt="VHDL" src="https://img.shields.io/badge/VHDL-000?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgdnNjb2RlLWljb25zOiBodHRwczovL2dpdGh1Yi5jb20vdnNjb2RlLWljb25zL3ZzY29kZS1pY29ucyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BZmlsZV90eXBlX3ZoZGw8L3RpdGxlPjxwYXRoIGQ9Ik0yLDJIMzBWMzBIMlptMS42ODkuMDY3QTEuNjI0LDEuNjI0LDAsMCwwLDIuMDYzLDMuNjkyVjI4LjMxNEExLjYyNSwxLjYyNSwwLDAsMCwzLjY4OSwyOS45NEgyOC4zMTZhMS42MjUsMS42MjUsMCwwLDAsMS42MjYtMS42MjZWMy42OTJhMS42MjQsMS42MjQsMCwwLDAtMS42MjYtMS42MjVaTTMuMDA4LDI4LjA3OWEuOTExLjkxMSwwLDAsMCwuOTExLjkxMkgyOC4wODNhLjkxMS45MTEsMCwwLDAsLjkxMS0uOTEyVjMuOTE5YS45MS45MSwwLDAsMC0uOTExLS45MTFIMy45MTlhLjkxLjkxLDAsMCwwLS45MTEuOTExWiIgc3R5bGU9ImZpbGw6IzBkOWIzNSIvPjxwb2x5Z29uIHBvaW50cz0iMjUuNTIgNS41MDIgMTguODU4IDI2LjQ5MSAxMy4xNTQgMjYuNDkxIDYuNDkyIDUuNTAyIDEwLjUwOCA1LjUwMiAxNi4wMjkgMjIuNzk1IDIxLjUwNCA1LjUwMiAyNS41MiA1LjUwMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg%3D%3D"/></code>
@@ -31,7 +36,6 @@
 <code><img alt="DotNet" src="https://img.shields.io/badge/.NET_Core-000?style=plastic&logo=dotnet"/></code>
 <code><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-000?style=plastic&logo=androidstudio"/></code>
 </p>
-
 
 <h2>Operating Systems</h2>
 <p align="left">
