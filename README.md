@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome header" src="assets/github-header-image.png"></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npoholik)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npoholik&hide=tcl&theme=apprentice)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 <h2>Get in Contact:</h2>
 
