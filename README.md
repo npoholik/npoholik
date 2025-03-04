@@ -2,9 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome header" src="assets/github-header-image.png"></div>
 
 <a href="https://github.com/EthanJamesLew/github-readme-stats-academic">
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npoholik&hide=tcl,python&theme=transparent&layout=compact" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=npoholik&show_icons=true&theme=transparent"/>
-</p>
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npoholik&hide=tcl,python&theme=transparent&layout=pie" /> </p>
 </a>
 
 <h2>Get in Contact:</h2>
